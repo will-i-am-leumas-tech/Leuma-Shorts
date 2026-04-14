@@ -1,0 +1,29 @@
+[
+  {
+    "file": "./assets/gameplay/licensed/pixabay-minecraft-style-small.mp4",
+    "label": "Pixabay Minecraft-style sample",
+    "sourceType": "pixabay-stock-video",
+    "directUrl": "https://cdn.pixabay.com/video/2020/08/27/48354-453189085_small.mp4",
+    "searchPage": "https://pixabay.com/videos/search/minecraft%20parkour%20gameplay/",
+    "licenseSummary": "https://pixabay.com/service/license-summary/",
+    "notes": "Gameplay-like 3D block-world footage. Use as a legal sample, not as proof of official Minecraft rights."
+  },
+  {
+    "file": "./assets/gameplay/licensed/pixabay-parkour-runner-small.mp4",
+    "label": "Pixabay parkour runner sample",
+    "sourceType": "pixabay-stock-video",
+    "directUrl": "https://cdn.pixabay.com/video/2025/11/23/317591_small.mp4",
+    "searchPage": "https://pixabay.com/videos/search/parkour/",
+    "licenseSummary": "https://pixabay.com/service/license-summary/",
+    "notes": "Parkour-style stock footage for gameplay-like short-form backgrounds."
+  },
+  {
+    "file": "./assets/gameplay/licensed/pixabay-parkour-fire-small.mp4",
+    "label": "Pixabay parkour fire sample",
+    "sourceType": "pixabay-stock-video",
+    "directUrl": "https://cdn.pixabay.com/video/2025/11/23/317590_small.mp4",
+    "searchPage": "https://pixabay.com/videos/search/parkour/",
+    "licenseSummary": "https://pixabay.com/service/license-summary/",
+    "notes": "Alternative parkour-style stock footage for gameplay-like backgrounds."
+  }
+]

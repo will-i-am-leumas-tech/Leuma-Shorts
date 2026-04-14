@@ -1,0 +1,22 @@
+{
+  "inputFile": "./examples/story.txt",
+  "outputDir": "./output/split-layout-demo",
+  "mode": "split-layout",
+  "title": "Placeholder Split Layout Demo",
+  "voice": {
+    "provider": "mock",
+    "voice": "narrator",
+    "speed": 1
+  },
+  "gameplaySource": "./assets/gameplay/placeholder-endless-runner.mp4",
+  "mediaSource": "./assets/media/sample-clip.mp4",
+  "subtitles": {
+    "enabled": true,
+    "style": "reddit-bold"
+  },
+  "renderOptions": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "inputFile": "./examples/story.txt",
+  "outputDir": "./output/full-gameplay-licensed-sample",
+  "mode": "full-gameplay",
+  "title": "Licensed Stock Gameplay Sample",
+  "voice": {
+    "provider": "mock",
+    "voice": "narrator",
+    "speed": 1
+  },
+  "gameplaySource": "./assets/gameplay/licensed/pixabay-parkour-runner-small.mp4",
+  "subtitles": {
+    "enabled": true,
+    "style": "reddit-bold"
+  },
+  "renderOptions": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

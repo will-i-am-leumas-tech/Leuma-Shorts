@@ -1,0 +1,22 @@
+{
+  "inputFile": "./examples/story-2.txt",
+  "outputDir": "./output/auto-mode-demo",
+  "mode": "auto",
+  "title": "Auto Layout Demo",
+  "voice": {
+    "provider": "mock",
+    "voice": "narrator",
+    "speed": 1
+  },
+  "gameplaySource": "./assets/gameplay/placeholder-block-parkour.mp4",
+  "mediaSource": "./assets/media/sample-image.jpg",
+  "subtitles": {
+    "enabled": true,
+    "style": "reddit-bold"
+  },
+  "renderOptions": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

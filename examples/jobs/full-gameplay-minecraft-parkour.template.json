@@ -1,0 +1,21 @@
+{
+  "inputFile": "./examples/story.txt",
+  "outputDir": "./output/minecraft-parkour-real",
+  "mode": "full-gameplay",
+  "title": "Minecraft Parkour Story Video",
+  "gameplayPreset": "minecraft-parkour",
+  "voice": {
+    "provider": "mock",
+    "voice": "narrator",
+    "speed": 1
+  },
+  "subtitles": {
+    "enabled": true,
+    "style": "reddit-bold"
+  },
+  "renderOptions": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

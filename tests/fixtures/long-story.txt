@@ -1,0 +1,5 @@
+The long transcript is intentionally repetitive so the integration path gets real subtitle chunking and a longer synthetic narration duration. This paragraph describes a person reading strange messages that appear on a bus stop display every time the city lights flicker. The messages mention places they have never visited and names they do not recognize, until one of the names turns out to be their own.
+
+The second section keeps extending the story so the gameplay and media layers need to stay alive over a more meaningful duration. The character returns the next night with a notebook, records each message, and notices they all appear exactly seven seconds before a bus passes by. None of the buses match the route number printed on the sign.
+
+The third section adds more pacing pressure. A second person arrives, asks whether the sign has been talking again, and produces a stack of dated photographs showing the same bus stop from ten different years. In every photo, the display contains a different warning, and in every photo, the main character is standing in the background even though they were not born yet.

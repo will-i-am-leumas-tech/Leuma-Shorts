@@ -1,0 +1,21 @@
+{
+  "inputFile": "./examples/story.txt",
+  "outputDir": "./output/subway-surfers-real",
+  "mode": "full-gameplay",
+  "title": "Real Gameplay Story Video",
+  "voice": {
+    "provider": "mock",
+    "voice": "narrator",
+    "speed": 1
+  },
+  "gameplaySource": "./assets/gameplay/real/subway-surfers.mp4",
+  "subtitles": {
+    "enabled": true,
+    "style": "reddit-bold"
+  },
+  "renderOptions": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

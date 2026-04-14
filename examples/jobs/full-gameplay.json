@@ -1,0 +1,21 @@
+{
+  "inputFile": "./examples/story.txt",
+  "outputDir": "./output/full-gameplay-demo",
+  "mode": "full-gameplay",
+  "title": "Placeholder Gameplay Demo",
+  "voice": {
+    "provider": "mock",
+    "voice": "narrator",
+    "speed": 1
+  },
+  "gameplaySource": "./assets/gameplay/placeholder-endless-runner.mp4",
+  "subtitles": {
+    "enabled": true,
+    "style": "reddit-bold"
+  },
+  "renderOptions": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

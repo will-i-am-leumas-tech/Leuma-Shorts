@@ -1,0 +1,21 @@
+{
+  "inputFile": "./examples/story-2.txt",
+  "outputDir": "./output/full-media-demo",
+  "mode": "full-media",
+  "title": "Commentary Clip",
+  "voice": {
+    "provider": "mock",
+    "voice": "narrator",
+    "speed": 1
+  },
+  "mediaSource": "./assets/media/sample-clip.mp4",
+  "subtitles": {
+    "enabled": true,
+    "style": "reddit-bold"
+  },
+  "renderOptions": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}
